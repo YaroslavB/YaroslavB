@@ -6,6 +6,5 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YaroslavB&theme=dark&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YaroslavB&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
